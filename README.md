@@ -1,1 +1,1 @@
-# SETI-workshop
+# SETI-data-science-workshop
